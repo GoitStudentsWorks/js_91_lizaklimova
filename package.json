@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --open",
-    "build": "vite build --base=/your_energy_app/",
+    "build": "vite build --base=/js_91_lizaklimova/",
     "preview": "vite preview"
   },
   "devDependencies": {
